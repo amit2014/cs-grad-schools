@@ -24,7 +24,7 @@ Computer Science Graduate Programs with key points of admission.
 ### Deadlines
 
 * Application process opens: September 1
-* Deadline for receipt of application: December 15
+* Deadline for receipt of application: **December 15**
 
 https://www.cs.washington.edu/prospective_students/grad/application/deadlines
 
@@ -39,6 +39,41 @@ grad-admissions@cs.washington.edu
 * [Required Materials](https://www.cs.washington.edu/prospective_students/pmp/application_materials)
 
 * [Assistantships and Fellowships](https://www.cs.washington.edu/prospective_students/grad/tuition_assistanceships)
+
+## Ohio State University
+
+**Times World University Ranking #72**
+
+[Masters Program](https://cse.osu.edu/current-students/master-science-program)
+
+[PhD Program](https://cse.osu.edu/graduate/phd-program)
+
+### CSE Graduate Admissions
+
+| Admission Requirement & Documents | Minimum Admission Requirement                  |
+|-----------------------------------|------------------------------------------------|
+| GPA                               | 3.2 (Average GPA ~3.8)                         |
+| GRE                               | Verbal 155, Quantitative 161, and Analytical 3 |
+| English Proficiency               | TOEFL iBT: 79, IELTS: 7.0                      |
+| Resume                            | No longer than 2 pages                         |
+| Personal Statement                |                                                |
+| Letters of Recommendation         | 3 recommendation letters                       |
+| Transcripts                       |                                                |
+| Application Fee                   | ?                                              |
+
+### Deadlines
+
+* To be considered for a Fellowship, TA, or RA, the deadline for international and domestgic applicants is **November 30**
+
+https://cse.osu.edu/prospective-students/cse-graduate-admissions
+
+### Contact
+
+grad-adm@cse.ohio-state.edu
+
+### Additional Links
+
+* [Financial Aid](https://cse.osu.edu/graduate/fellowship-financial-aid)
 
 ## Contributing
 
