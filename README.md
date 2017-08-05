@@ -2,9 +2,16 @@
 
 Computer Science Graduate Programs with key points of admission.
 
-## University of Washington
+# Table of contents
+1. [USA](#usa)
+    1. [University of Washington](#university-of-washington)
+    2. [Ohio State University](#ohio-state-university)
+2. [Netherlands](#netherlands)
+    1. [Delft University of Technology](#delft-university-of-technology)
 
-**Times World University Ranking #25**
+## University of Washington <a name="university-of-washington"></a>
+
+**Times Higher Education World University Ranking #25**
 
 ### Full-time Ph.D. Program
 
@@ -40,9 +47,9 @@ grad-admissions@cs.washington.edu
 
 * [Assistantships and Fellowships](https://www.cs.washington.edu/prospective_students/grad/tuition_assistanceships)
 
-## Ohio State University
+## Ohio State University <a name="ohio-state-university"></a>
 
-**Times World University Ranking #72**
+**Times Higher Education World University Ranking #72**
 
 [Masters Program](https://cse.osu.edu/current-students/master-science-program)
 
@@ -74,6 +81,27 @@ grad-adm@cse.ohio-state.edu
 ### Additional Links
 
 * [Financial Aid](https://cse.osu.edu/graduate/fellowship-financial-aid)
+
+## Delft University of Technology <a name="delft-university-of-technology"></a>
+
+**Times World University Ranking #59**
+
+[MSc Computer Engineering](https://www.tudelft.nl/en/education/programmes/masters/computer-engineering/msc-computer-engineering/) <br>
+[MSc Computer Science](https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/) <br>
+[MSc International Admission requirements](https://www.tudelft.nl/en/education/admission-and-application/msc-international/1-admission-requirements/) <br>
+
+| Admission Requirements                                                                                                 | Required application documents                                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A good university bachelor's degree in  a main subject closely related to  the MSc programme to which you are applying | A certified copy of your original diploma (+ translation, if necessary)                                                                                         |
+| CGPA > 75% (unless specific requirements are defined for your country)                                                 | A certified copy of your complete transcripts, front and back (+ translation, if necessary)                                                                     |
+| Language requirements                                                                                                  | TOEFL iBT: 90 and a minimum score of 21 for each section <br> IELTS: IELTS certificate (academic version) <br> Cambridge: Proficiency (CPE) or Advanced (CAE) certificate |
+| Motivation                                                                                                             | 1,000-1,500 words clear and relevant essay in English                                                                                                           |
+| Reference letters                                                                                                      | Two reference letters in English, French, German or Dutch                                                                                                       |
+| Curriculum Vitae                                                                                                       | An extensive resume written in English.                                                                                                                         |
+| Proof of identity                                                                                                      | A photocopy of the page(s) of your passport showing your name, date of birth, place of birth  and the passport expiration date.                                 |
+| Payment application fee                                                                                                | € 100                                                                                                                                                           |
+[Deadlines](https://www.tudelft.nl/index.php?id=8244&L=1) <br>
+[Tuition fee & scholarships](https://www.tudelft.nl/index.php?id=8245&L=1) <br>
 
 ## Contributing
 
