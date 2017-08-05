@@ -8,6 +8,7 @@ Computer Science Graduate Programs with key points of admission.
     2. [Ohio State University](#ohio-state-university)
 2. [Netherlands](#netherlands)
     1. [Delft University of Technology](#delft-university-of-technology)
+    2. [University of Amsterdam](#university-of-amsterdam)
 
 ## University of Washington <a name="university-of-washington"></a>
 
@@ -100,8 +101,27 @@ grad-adm@cse.ohio-state.edu
 | Curriculum Vitae                                                                                                       | An extensive resume written in English.                                                                                                                         |
 | Proof of identity                                                                                                      | A photocopy of the page(s) of your passport showing your name, date of birth, place of birth  and the passport expiration date.                                 |
 | Payment application fee                                                                                                | € 100                                                                                                                                                           |
+
+
 [Deadlines](https://www.tudelft.nl/index.php?id=8244&L=1) <br>
 [Tuition fee & scholarships](https://www.tudelft.nl/index.php?id=8245&L=1) <br>
+
+## University of Amsterdam <a name="university-of-amsterdam"></a>
+
+**Times World University Ranking #63**
+
+[MSc Software Engineering](http://gss.uva.nl/content/masters/software-engineering/software-engineering.html) <br>
+[MSc Computer Science](http://www.uva.nl/en/shared-content/subsites/graduate-school-of-sciences/en/masters/computer-science/computer-science.html?origin=5BOaRAofTjCccATraJp2XA) <br>
+
+| Admission Requirements  | Required application documents                                                                                                                        |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade point average     | 3.0 (American system) <br> 2.1 (a second class upper/division one degree in the British system) <br> C (ECTS-system) <br>                             |
+| Language requirements   | TOEFL iBT: 92 <br> IELTS: Minimum score 6.5*, at least 6.0* on sub-scores (7 and 6.5 for Software Engineering) <br> Cambridge: (CAE) A or B, (CPE) C  |
+| Payment application fee | ?                                                                                                                                                     |
+
+[Deadlines](http://gss.uva.nl/content/masters/software-engineering/application-and-admission/deadlines/deadlines-kopie-6.html) <br>
+[Tuition fees and costs](http://gss.uva.nl/content/masters/software-engineering/tuition-fee-and-costs/tuition-fees-and-costs.html) <br>
+[Scolarships](http://gss.uva.nl/content/masters/software-engineering/scholarships/scholarships.html) <br>
 
 ## Contributing
 
