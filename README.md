@@ -10,6 +10,9 @@ Computer Science Graduate Programs with key points of admission.
     1. [Delft University of Technology](#delft-university-of-technology)
     2. [University of Amsterdam](#university-of-amsterdam)
 
+
+# USA <a name="usa"></a>
+
 ## University of Washington <a name="university-of-washington"></a>
 
 **Times Higher Education World University Ranking #25**
@@ -48,6 +51,7 @@ grad-admissions@cs.washington.edu
 
 * [Assistantships and Fellowships](https://www.cs.washington.edu/prospective_students/grad/tuition_assistanceships)
 
+
 ## Ohio State University <a name="ohio-state-university"></a>
 
 **Times Higher Education World University Ranking #72**
@@ -82,6 +86,8 @@ grad-adm@cse.ohio-state.edu
 ### Additional Links
 
 * [Financial Aid](https://cse.osu.edu/graduate/fellowship-financial-aid)
+
+# Netherlands <a name="netherlands"></a>
 
 ## Delft University of Technology <a name="delft-university-of-technology"></a>
 
@@ -120,8 +126,6 @@ grad-adm@cse.ohio-state.edu
 | Payment application fee | ?                                                                                                                                                     |
 
 [Deadlines](http://gss.uva.nl/content/masters/software-engineering/application-and-admission/deadlines/deadlines-kopie-6.html) <br>
-[Tuition fees and costs](http://gss.uva.nl/content/masters/software-engineering/tuition-fee-and-costs/tuition-fees-and-costs.html) <br>
-[Scolarships](http://gss.uva.nl/content/masters/software-engineering/scholarships/scholarships.html) <br>
 
 ## Contributing
 
